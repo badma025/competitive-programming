@@ -1,0 +1,5 @@
+intro to greedy:
+https://www.youtube.com/watch?v=HzeK7g8cD0Y
+
+activity selection problem:
+https://www.youtube.com/watch?v=poWB2UCuozA
